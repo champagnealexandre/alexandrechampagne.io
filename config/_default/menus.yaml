@@ -19,8 +19,8 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
-  - name: Example
-    url: "example/"
+  - name: Example2
+    url: "example2/"
     weight: 60
   - name: Contact
     url: '#contact'
