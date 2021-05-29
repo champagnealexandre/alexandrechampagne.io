@@ -10,12 +10,22 @@ main:
   - name: Research
     url: "research/"
     weight: 20
+    identifier: "research"
+#  - name: Research interests
+#    url: "research-interests/"
+    # parent: "research"
+#    weight: 30
+  - name: Origin of life digest
+    url: "research-digest/"
+    # parent: "research"
+    weight: 40
   - name: Publications
     url: "publications/"
+    # parent: "research"
     weight: 30
   - name: Blog
     url: "blog/"
-    weight: 50
+    weight: 100
 #  - name: Posts
 #    url: '#posts'
 #    weight: 20
@@ -39,4 +49,4 @@ main:
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/resume.pdf
-    weight: 40
+    weight: 90
