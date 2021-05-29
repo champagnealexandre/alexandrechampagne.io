@@ -18,22 +18,25 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistical physics of complex systems
+- Major evolutionary transitions
+- Origin of life
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Astrophysics
+    institution: Université de Montréal
+    year: 2024 (expected)
+  - course: MSc in Astrophysics
+    institution: Université de Montréal
+    year: 2020
+  - course: BSc in Physics
+    institution: Université de Montréal
+    year: 2018
+  - course: BSc in Philosophy
+    institution: Université de Montréal
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +48,16 @@ social:
   link: 'mailto:alexandre.champagne-ruel@umontreal.ca'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/AlexRChampagne
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=4BNA8IwAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/champagnealexandre/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/champagnealexandre/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +73,8 @@ email: ""
 highlight_name: false
 ---
 
-Alexandre Champagne-Ruel is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate in astrophysics at the Université de Montréal’s physics department. My research interests include statistical physics of complex systems, major evolutionary transitions and the origin of life. I am a member of the [Origin of Life Early-career Network](https://oolen.org/). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my free time, I run, bike, do yoga, code some more, and then read a bit more too. I also love to travel. Sometimes I sleep.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can also download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
