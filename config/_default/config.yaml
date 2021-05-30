@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Alexandre Champagne-Ruel # Website name
-baseurl: 'alexchampagne.co' # Website URL
+baseurl: 'alexandrechampagne.io' # Website URL
 copyright: '© {year} Alexandre Champagne-Ruel' # Footer text, e.g. '© {year} Me'
 
 ############################

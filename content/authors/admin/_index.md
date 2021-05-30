@@ -14,7 +14,7 @@ organizations:
   url: https://www.umontreal.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include statistical physics, complex systems and major evolutionary transitions.
 
 # Interests to show in About widget
 interests:
@@ -73,8 +73,9 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD candidate in astrophysics at the Université de Montréal’s physics department. My research interests include statistical physics of complex systems, major evolutionary transitions and the origin of life. I am a member of the [Origin of Life Early-career Network](https://oolen.org/). 
+I am a PhD candidate in astrophysics at the Université de Montréal’s physics department. My research interests include statistical physics of complex systems, major evolutionary transitions and the origin of life. I am a member of the [Centre for Research in Astrophysics of Quebec (CRAQ)](http://craq-astro.ca/?lang=en) and the [Origin of Life Early-career Network](https://oolen.org/). I also maintain a [digest](research-digest/) of papers published related to the origin of life.
 
 In my free time, I run, bike, do yoga, code some more, and then read a bit more too. I also love to travel. Sometimes I sleep.
 
 {{< icon name="download" pack="fas" >}} You can also download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+
