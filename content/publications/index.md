@@ -18,7 +18,7 @@ header:
 
 - **Champagne-Ruel, A.**, Charbonneau, P., 2021. Cooperation emerges from stochasticity in the prebiotic world. (*in preparation*)
 
-- Gelin, S., **Champagne-Ruel, A.**, Mousseau, N., 2020. Enthalpy-entropy compensation of atomic diffusion originates from softening of low frequency phonons. Nature Communications 11, 3977. https://doi.org/10.1038/s41467-020-17812-2
+- Gelin, S., **Champagne-Ruel, A.**, Mousseau, N., 2020. {{% staticref "uploads/s41467-020-17812-2.pdf" "newtab" %}}Enthalpy-entropy compensation of atomic diffusion originates from softening of low frequency phonons{{% /staticref %}}. Nature Communications 11, 3977.
 
 ## Talks
 
@@ -26,4 +26,5 @@ header:
 
 ## Posters
 
-- Self-organized criticality: a prelude to avalanche models of solar flares, 2019. Space Climate 7 Symposium: The Future of Solar Activity.
+- {{% staticref "uploads/poster.pdf" "newtab" %}}Self-organized criticality: a prelude to avalanche models of solar flares{{% /staticref %}}, 2019. Space Climate 7 Symposium: The Future of Solar Activity.
+

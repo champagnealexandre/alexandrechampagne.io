@@ -14,6 +14,10 @@ header:
   image: ""
 ---
 
-Here is a brief summary of the research that I do.
+I am currently working on an evolutionary ecosystem based on the iterated prisoner’s dilemma to model cooperation phenomena and population dynamics between simple players. The objective is to examine what are the requirements for cooperation to evolve spontaneously between simple replicative entities that would be typical of prebiotic chemistry.
 
+Many authors have suggested that the origin of life -- and even life in general -- is an example of a critical phenomenon. Statistical mechanic’s mathematical framework is ideal for analyzing this, and this is one of the reasons that makes a physicist’s journey into biology such an interesting endeavour.
 
+My research interests also go beyond the origin of life. The so-called major evolutionary transitions -- that the emergence of life would be one of the most spectacular examples -- raise questions that seem to require the development of new theoretical frameworks based on non-traditional concepts in the field of prebiotic chemistry, such as information theory, that I truly find fascinating.
+
+Feel free to [drop me a line](mailto:alexandre.champagne-ruel@umontreal.ca) if you want to collaborate on related projects!

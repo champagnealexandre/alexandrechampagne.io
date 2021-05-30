@@ -73,9 +73,9 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD candidate in astrophysics at the Université de Montréal’s physics department. My research interests include statistical physics of complex systems, major evolutionary transitions and the origin of life. I am a member of the [Centre for Research in Astrophysics of Quebec (CRAQ)](http://craq-astro.ca/?lang=en) and the [Origin of Life Early-career Network](https://oolen.org/). I also maintain a [digest](research-digest/) of papers published related to the origin of life.
+I am a PhD candidate in astrophysics at the Université de Montréal’s physics department. My research interests include statistical physics of complex systems, major evolutionary transitions and the origin of life. I am a member of the [Centre for Research in Astrophysics of Quebec (CRAQ)](http://craq-astro.ca/?lang=en) and the [Origin of Life Early-career Network](https://oolen.org/). I also maintain a [digest](post/) of papers published related to the origin of life every other week or so.
 
-In my free time, I run, bike, do yoga, code some more, and then read a bit more too. I also love to travel. Sometimes I sleep.
+In my free time, I run, bike, and do yoga. I also love to travel.
 
 {{< icon name="download" pack="fas" >}} You can also download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 

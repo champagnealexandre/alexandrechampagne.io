@@ -12,7 +12,7 @@ projects: []
 date: "2020-02-06T00:00:00Z"
 
 # Date updated
-# lastmod: "2020-02-06T00:00:00Z"
+lastmod: "2020-02-06T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -26,8 +26,8 @@ authors:
 tags:
 # - Academic
 
-#categories:
-#- Demo
+categories:
+# - Demo
 ---
 
 This is the OoL digest, first edition!

@@ -1,5 +1,7 @@
 ---
-title: Posts
+title: Origin of life digest
+subtitle: Every day, I review the papers that were published in the scientific literature and post the ones related to research on the origin of life here. Enjoy, and feel free to [drop me a line](mailto:alexandre.champagne-ruel@umontreal.ca) if you find this digest useful !
+summary: Every day, I review the papers that were published in the scientific literature and post the ones related to research on the origin of life here. Enjoy, and feel free to [drop me a line](mailto:alexandre.champagne-ruel@umontreal.ca) if you find this digest useful !
 cms_exclude: true
 
 # View.

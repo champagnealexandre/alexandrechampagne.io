@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Posts
 cms_exclude: true
 
 # View.
@@ -13,5 +13,3 @@ header:
   caption: ""
   image: ""
 ---
-
-Coming soon !

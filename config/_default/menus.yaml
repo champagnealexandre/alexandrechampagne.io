@@ -16,7 +16,7 @@ main:
     # parent: "research"
 #    weight: 30
   - name: Origin of life digest
-    url: "research-digest/"
+    url: "post/"
     # parent: "research"
     weight: 40
   - name: Publications
@@ -41,9 +41,6 @@ main:
 #  - name: Example
 #    url: "example/"
 #    weight: 60
-#  - name: Contact
-#    url: '#contact'
-#    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
