@@ -14,10 +14,16 @@ header:
   image: ""
 ---
 
-## Cooperation and critical phenomena
+## Journal articles
 
-- Champagne-Ruel, A., Charbonneau, P., 2021. Cooperation emerges from stochasticity in the prebiotic world. (*in preparation*)
-
-## Condensed matter
+- **Champagne-Ruel, A.**, Charbonneau, P., 2021. Cooperation emerges from stochasticity in the prebiotic world. (*in preparation*)
 
 - Gelin, S., **Champagne-Ruel, A.**, Mousseau, N., 2020. Enthalpy-entropy compensation of atomic diffusion originates from softening of low frequency phonons. Nature Communications 11, 3977. https://doi.org/10.1038/s41467-020-17812-2
+
+## Talks
+
+- Criticality in an artificial evolutionary ecosystem, 2019. Centre for Research in Astrophysics of Quebec annual meeting.  (*in french*)
+
+## Posters
+
+- Self-organized criticality: a prelude to avalanche models of solar flares, 2019. Space Climate 7 Symposium: The Future of Solar Activity.
