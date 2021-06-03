@@ -83,5 +83,5 @@ I am a PhD candidate in astrophysics at the University of Montréal. My research
 
 In my free time, I run, bike, and do yoga. I also love to travel.
 
-{{< icon name="download" pack="fas" >}} You can also {{< staticref "uploads/CV.pdf" "newtab" >}}download my CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can also {{< staticref "uploads/cv.pdf" "newtab" >}}download my CV{{< /staticref >}}.
 
