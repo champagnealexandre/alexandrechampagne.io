@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alexandre Champagne-Ruel
+title: Alexandre Champagne‑Ruel
 
 # Is this the primary user of the site?
 superuser: true
