@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-Coming soon !
+Coming soon ! :-)

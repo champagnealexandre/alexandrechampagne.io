@@ -16,7 +16,7 @@ main:
     # parent: "research"
 #    weight: 30
   - name: Origin of life digest
-    url: "post/"
+    url: "ool-digest/"
     # parent: "research"
     weight: 40
   - name: Publications
