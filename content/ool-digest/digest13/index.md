@@ -36,7 +36,7 @@ categories:
 
 [A Large-scale Approach to Modelling Molecular Biosignatures: The Diatomics](http://arxiv.org/abs/2106.07647) -- Cross et al. -- *preprint*
 
-[Biosignatures of the Earth I. Airborne spectropolarimetric detection of photosynthetic life](https://www.aanda.org/articles/aa/abs/forth/aa40845-21/aa40845-21.html) -- Patty et al. -- *Astronomy & Astrophysics*
+[Biosignatures of the Earth I. Airborne spectropolarimetric detection of photosynthetic life](https://doi.org/10.1051/0004-6361/202140845) -- Patty et al. -- *Astronomy & Astrophysics*
 
 <br>
 
