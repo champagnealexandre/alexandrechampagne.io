@@ -40,8 +40,6 @@ categories:
 
 [Discovery of interstellar glycine in the hot molecular core G10.47+0.03](http://arxiv.org/abs/2106.11800) -- Manna et al. -- *preprint*
 
-[The Occurrence-weighted Median Planets Discovered by Transit Surveys Orbiting Solar-type Stars and Their Implications for Planet Formation and Evolution](http://arxiv.org/abs/2106.09725) -- Schlaufman et al. -- *preprint*
-
 [Interview with Cole Mathis -- SFI Alien Crash Site Podcast](https://www.youtube.com/watch?v=ZUpyvrgcpD8)
 
 <br>
