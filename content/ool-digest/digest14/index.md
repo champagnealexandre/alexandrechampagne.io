@@ -42,7 +42,7 @@ categories:
 
 [The Occurrence-weighted Median Planets Discovered by Transit Surveys Orbiting Solar-type Stars and Their Implications for Planet Formation and Evolution](http://arxiv.org/abs/2106.09725) -- Schlaufman et al. -- *preprint*
 
-[Interview with Cole Mathis -- SFI Alien Crash Site Podcast](https://www.youtube.com/watch?v=ZUpyvrgcpD8]
+[Interview with Cole Mathis -- SFI Alien Crash Site Podcast](https://www.youtube.com/watch?v=ZUpyvrgcpD8)
 
 <br>
 
