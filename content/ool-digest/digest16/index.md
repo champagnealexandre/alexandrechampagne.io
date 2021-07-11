@@ -40,7 +40,7 @@ categories:
 
 **Biochemistry**
 
-[Water-Soluble Supramolecular Polymers of Paired and Stacked Heterocycles: Assembly, Structure, Properties, and a Possible Path to Pre-RNA)(https://doi.org/10.1021/jacs.0c13081) -- Schuster et al. -- *Journal of the American Chemical Society*
+[Water-Soluble Supramolecular Polymers of Paired and Stacked Heterocycles: Assembly, Structure, Properties, and a Possible Path to Pre-RNA](https://doi.org/10.1021/jacs.0c13081) -- Schuster et al. -- *Journal of the American Chemical Society*
 
 [RNA diversification by a self-reproducing ribozyme revealed by deep sequencing and kinetic modelling](https://pubs.rsc.org/en/content/articlelanding/2021/cc/d1cc02290c) -- Jeancolas et al. -- *Chemical Communications*
 
