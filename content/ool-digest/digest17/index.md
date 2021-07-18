@@ -1,9 +1,9 @@
 ---
 title: OoL digest — July 18th edition
-subtitle: "In this week’s OoL research: "
+subtitle: "In this week’s OoL research, we have several new articles out. In astrobiology, Kotsyurbenko analyses the plausibility of Venusian clouds habitability, and Charlier suggests that the presence of strontium-84 on meteoritic material indicates an early accretion of water on Earth. In biochemistry, Ianeselli examines how gas bubbles in heated rock pores can induce the evolution of protocells, Ram analyses how the inheritance of mutation rates promotes adaptive evolution, and Cavalazzi presents the discovery of 3.42Gyrs old methanogens in volcanic substrates. Happy reading !!"
 
 # Summary for listings and search engines
-summary: ""
+summary: "In this week’s OoL research, we have several new articles out. In astrobiology, Kotsyurbenko analyses the plausibility of Venusian clouds habitability, and Charlier suggests that the presence of strontium-84 on meteoritic material indicates an early accretion of water on Earth. In biochemistry, Ianeselli examines how gas bubbles in heated rock pores can induce the evolution of protocells, Ram analyses how the inheritance of mutation rates promotes adaptive evolution, and Cavalazzi presents the discovery of 3.42Gyrs old methanogens in volcanic substrates. Happy reading !!"
 
 # Link this post with a project
 projects: []
@@ -33,8 +33,6 @@ categories:
 **Astrobiology**
 
 [Exobiology of the Venusian Clouds: New Insights into Habitability through Terrestrial Models and Methods of Detection](https://www.liebertpub.com/doi/abs/10.1089/ast.2020.2296) -- Kotsyurbenko et al. -- *Astrobiology*
-
-[The 13CO-rich atmosphere of a young accreting super-Jupiter](https://www.nature.com/articles/s41586-021-03616-x) -- Zhang et al. -- *Nature*
 
 [Survival of presolar p-nuclide carriers in the nebula revealed by stepwise leaching of Allende refractory inclusions](https://advances.sciencemag.org/content/7/28/eabf6222) -- Charlier et al. -- *Science Advances*
 
