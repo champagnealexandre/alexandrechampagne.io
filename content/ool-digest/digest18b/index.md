@@ -36,7 +36,7 @@ categories:
 
 [Synthesis of lipid membranes for artificial cells](https://doi.org/10.1038/s41570-021-00303-3) -- Podolsky et al. -- *Nature Reviews Chemistry*
 
-Peptide formation as on the early Earth: from amino acid mixtures to peptides in sulphur dioxide(https://www.researchsquare.com/article/rs-629724/v1) -- Trapp et al. -- *preprint*
+[Peptide formation as on the early Earth: from amino acid mixtures to peptides in sulphur dioxide](https://www.researchsquare.com/article/rs-629724/v1) -- Trapp et al. -- *preprint*
 
 [Engineering self-organized criticality in living cells](https://doi.org/10.1038/s41467-021-24695-4) -- Vidiella et al. -- *Nature Communications*
 
