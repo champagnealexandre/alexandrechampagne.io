@@ -1,9 +1,11 @@
 ---
 title: OoL digest — August 1st edition
-subtitle: ""
+subtitle: "Good evening from Montreal. This week again there’s been a lot of very interesting research in fields related to the OoL. First, we have a paper in the field of Artificial Life, from Olivi, that reviews approaches for recreating a functional cell cycle in an artificial cell. In Astrobiology, Boukrouche develops a band-grey model to be applied on rocky exoplanets in a runaway greenhouse state,
+Huang reviews assessments of ammonia as a biosignature, Mayorga examines the Earth’s transmission spectra in order to determine if current methologies are sufficient to detect biosignature in similar exoplanetary spectra and Roth reports the detection by HST of a sublimated water atmosphere on Ganymede. We also have several papers in Biology: Chen examines how  multicellularity can explain phylogenic patterns, Dunk investigates how complexity arises in cell-cycle regulation, Johnston analyzes the emergence of symmetry in the context of an algorithmic picture of evolution, Lyons reviews oxygen production in Earth’s middle history, and Sandström examines how HCN dimerization may be a key step in the formation of various prebiotic building blocks. Finally, in Paleontology we have a paper by Cavalazzi that reports the discovery of a 3.5 Gyr microfossil in South Africa. Happy reading !"
 
 # Summary for listings and search engines
-summary: ""
+summary: "Good evening from Montreal. This week again there’s been a lot of very interesting research in fields related to the OoL. First, we have a paper in the field of Artificial Life, from Olivi, that reviews approaches for recreating a functional cell cycle in an artificial cell. In Astrobiology, Boukrouche develops a band-grey model to be applied on rocky exoplanets in a runaway greenhouse state,
+Huang reviews assessments of ammonia as a biosignature, Mayorga examines the Earth’s transmission spectra in order to determine if current methologies are sufficient to detect biosignature in similar exoplanetary spectra and Roth reports the detection by HST of a sublimated water atmosphere on Ganymede. We also have several papers in Biology: Chen examines how  multicellularity can explain phylogenic patterns, Dunk investigates how complexity arises in cell-cycle regulation, Johnston analyzes the emergence of symmetry in the context of an algorithmic picture of evolution, Lyons reviews oxygen production in Earth’s middle history, and Sandström examines how HCN dimerization may be a key step in the formation of various prebiotic building blocks. Finally, in Paleontology we have a paper by Cavalazzi that reports the discovery of a 3.5 Gyr microfossil in South Africa. Happy reading !"
 
 # Link this post with a project
 projects: []
