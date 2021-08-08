@@ -44,7 +44,7 @@ categories:
 
 [De novo evolution of macroscopic multicellularity](https://doi.org/10.1101/2021.08.03.454982) -- Bozdag et al. -- *preprint*
 
-The genetic code is very close to a global optimum in a model of its origin taking into account both the partition energy of amino acids and their biosynthetic relationships(http://biorxiv.org/lookup/doi/10.1101/2021.08.01.454621) -- Di Giulio et al. -- *preprint*
+[The genetic code is very close to a global optimum in a model of its origin taking into account both the partition energy of amino acids and their biosynthetic relationships](http://biorxiv.org/lookup/doi/10.1101/2021.08.01.454621) -- Di Giulio et al. -- *preprint*
 
 <br>
 
