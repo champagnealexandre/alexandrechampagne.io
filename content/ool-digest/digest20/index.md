@@ -1,9 +1,9 @@
 ---
-title: OoL digest — August 1st edition
-subtitle: ""
+title: OoL digest — August 8st edition
+subtitle: "Good morning everyone! This week we have a very diverse digest. In Astrobiology, Adams investigates nitrogen fixation processes in Early Mars’ atmosphere, Ilin examined TESS’ data and found that stellar flares would be less harmful to exoplanets than previously thought, and Milojevic analyzes the presence of phosphorus (not phosphine this time!) in the Venusian cloud deck and it’s eventual role in a biochemical cycle. In Biochemistry, we have an article by Bozdag that reports an experiment on snowflake yeast evolution towards multicellularity, and a preprint by Caldararo examines the optimality of the genetic code with respect to the partition energy of amino acids. Finally, in Geoscience, Klatt reports an experiment suggesting that increasing day length in Earth’s history could have contributed to the GOE. Happy reading !!"
 
 # Summary for listings and search engines
-summary: ""
+summary: "Good morning everyone! This week we have a very diverse digest. In Astrobiology, Adams investigates nitrogen fixation processes in Early Mars’ atmosphere, Ilin examined TESS’ data and found that stellar flares would be less harmful to exoplanets than previously thought, and Milojevic analyzes the presence of phosphorus (not phosphine this time!) in the Venusian cloud deck and it’s eventual role in a biochemical cycle. In Biochemistry, we have an article by Bozdag that reports an experiment on snowflake yeast evolution towards multicellularity, and a preprint by Caldararo examines the optimality of the genetic code with respect to the partition energy of amino acids. Finally, in Geoscience, Klatt reports an experiment suggesting that increasing day length in Earth’s history could have contributed to the GOE. Happy reading !!"
 
 # Link this post with a project
 projects: []
