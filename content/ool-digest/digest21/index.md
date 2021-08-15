@@ -1,5 +1,5 @@
 ---
-title: OoL digest — August 8st edition
+title: OoL digest — August 15th edition
 subtitle: "Good morning everyone. In this week’s digest, we mostly have papers in the field of astrobiology, plus one last paper in biochemistry. In astrobiology, Barnes presents the science goals of the upcoming Dragonfly mission that is planned to land on Titan in the mid-2030s, Graham demonstrates that high pCO$_2$ reduces the impact of CO$_2$ fluctuations throughout the habitable zone, Hyodo discusses the science goals of the upcoming Martian Moons eXploration mission, Méndez reviews habitability models relevant for astrobiology and Song presents a 2D cloud-resolving model for tidally locked planets around M and K dwarfs. Finally, in biochemistry Philippi investigates N$_2$ fixation in Proterozoic analogue conditions. Happy reading!"
 
 # Summary for listings and search engines
