@@ -30,6 +30,9 @@ Centre for Research in Astrophysics of Quebec annual meeting, 2019.
 
 ## Posters
 
+{{% staticref "uploads/poster_mol2021.pdf" "newtab" %}}**Mutation favors the emergence of cooperation**{{% /staticref %}}<br>
+Molecular Origins of Life Munich, 2021.
+
 {{% staticref "uploads/poster.pdf" "newtab" %}}**Self-organized criticality: a prelude to avalanche models of solar flares**{{% /staticref %}}<br>
 Space Climate 7 Symposium: The Future of Solar Activity, 2020.
 
