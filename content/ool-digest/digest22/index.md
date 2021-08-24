@@ -1,9 +1,9 @@
 ---
 title: OoL digest — August 22nd edition
-subtitle: ""
+subtitle: "Good afternoon! This week in OoL, three astrobiology preprints/papers: an addendum to the phosphine debate by Greaves, a review of biosignatures by Rimmer and a discussion of Early Earth habitability by Rivera-Valentin. In biology, we have an analysis of early life form morphologies by Kanaparthi, and a discussion on the multiple pathways to life hypothesis by Kempes. Happy reading!"
 
 # Summary for listings and search engines
-summary: ""
+summary: "Good afternoon! This week in OoL, three astrobiology preprints/papers: an addendum to the phosphine debate by Greaves, a review of biosignatures by Rimmer and a discussion of Early Earth habitability by Rivera-Valentin. In biology, we have an analysis of early life form morphologies by Kanaparthi, and a discussion on the multiple pathways to life hypothesis by Kempes. Happy reading!"
 
 # Link this post with a project
 projects: []
