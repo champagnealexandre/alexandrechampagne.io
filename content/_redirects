@@ -1,5 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/home              /
-/blog/my-post.php  /blog/my-post
-/news              /blog
-/cuties            https://www.petsofnetlify.com
+/zoom            https://umontreal.zoom.us/j/81525968091?pwd=QzhIYWRvTk9pNktKRzRRT01ocUUvdz09
