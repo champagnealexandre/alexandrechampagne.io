@@ -1,9 +1,9 @@
 ---
 title: OoL digest — August 29th edition
-subtitle: ""
+subtitle: "Quick one this week -- only three articles. In Astrobiology, Madhusudhan investigates a new class of exoplanets with densities between that of rocky super-Earths and mini-Neptunes. In Earth Sciences, Meixnerová suggests that atmospheric oxygen concentration on early Earth would have followed a surge in marine microorganisms favored by volcanic eruptions, and Shizuya discusses the transition from Snowball Earth following the analysis of rock samples from China. Happy reading !"
 
 # Summary for listings and search engines
-summary: ""
+summary: "Quick one this week -- only three articles. In Astrobiology, Madhusudhan investigates a new class of exoplanets with densities between that of rocky super-Earths and mini-Neptunes. In Earth Sciences, Meixnerová suggests that atmospheric oxygen concentration on early Earth would have followed a surge in marine microorganisms favored by volcanic eruptions, and Shizuya discusses the transition from Snowball Earth following the analysis of rock samples from China. Happy reading !"
 
 # Link this post with a project
 projects: []
