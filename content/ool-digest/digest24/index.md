@@ -1,9 +1,9 @@
 ---
 title: OoL digest — September 5th edition
-subtitle: "Good morning everyone. We have five articles on the OoL in this week’s digest. In astrobiology, Wallner reports an abiotic pathway for $O_2$ production, "
+subtitle: "Good morning everyone. We have five articles on the OoL in this week’s digest. In astrobiology, Wallner reports on an abiotic pathway for $O_2$ production that could be a major source in exoplanetary atmospheres. In biochemistry, Attal suggests a temperature-driven mechanism for protocell fission, Busseniers suggests a new model called Chemical Organization Theory to account for prebiotic network formation, Matreux analyzes ion balancing mechanisms that promote RNA folding, and Robinson examines self-organization processes through varying environmental conditions. Enjoy!"
 
 # Summary for listings and search engines
-summary: ""
+summary: "Good morning everyone. We have five articles on the OoL in this week’s digest. In astrobiology, Wallner reports on an abiotic pathway for $O_2$ production that could be a major source in exoplanetary atmospheres. In biochemistry, Attal suggests a temperature-driven mechanism for protocell fission, Busseniers suggests a new model called Chemical Organization Theory to account for prebiotic network formation, Matreux analyzes ion balancing mechanisms that promote RNA folding, and Robinson examines self-organization processes through varying environmental conditions. Enjoy!"
 
 # Link this post with a project
 projects: []
