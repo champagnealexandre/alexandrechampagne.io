@@ -1,6 +1,6 @@
 ---
 title: OoL digest — September 5th edition
-subtitle: ""
+subtitle: "Good morning everyone. We have five articles on the OoL in this week’s digest. In astrobiology, Wallner reports an abiotic pathway for $O_2$ production, "
 
 # Summary for listings and search engines
 summary: ""
