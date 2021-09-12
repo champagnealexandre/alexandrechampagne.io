@@ -32,11 +32,12 @@ categories:
 
 **Astrobiology**
 
-[Postulating Exoplanetary Habitability via a Novel Anomaly Detection Method](URL http://arxiv.org/abs/2109.02273) -- Sarkar et al. -- *preprint*
+[Postulating Exoplanetary Habitability via a Novel Anomaly Detection Method](http://arxiv.org/abs/2109.02273) -- Sarkar et al. -- *preprint*
 
 <br>
 
 **Biochemistry**
 
 [Phylotranscriptomics points to multiple independent origins of multicellularity and cellular differentiation in the volvocine algae](https://doi.org/10.1186/s12915-021-01087-0) -- Lindsey et al. -- *BMC Biology*
+
 Evolutionary transition from a single RNA replicator to a multiple replicator network(https://www.biorxiv.org/content/10.1101/2021.09.09.459571v1) -- Mizuuchi et al. -- *preprint*
