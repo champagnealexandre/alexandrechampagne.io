@@ -32,7 +32,7 @@ categories:
 
 **Astrobiology**
 
-[Molecules with ALMA at Planet-forming Scales (MAPS) I: Program Overview and Highlights](URL http://arxiv.org/abs/2109.06268) -- Oberg et al. -- *preprint*
+[Molecules with ALMA at Planet-forming Scales (MAPS) I: Program Overview and Highlights](http://arxiv.org/abs/2109.06268) -- Oberg et al. -- *preprint*
 
 <br>
 
