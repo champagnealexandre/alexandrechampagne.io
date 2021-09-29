@@ -9,7 +9,7 @@ summary: "Good morning everyone! This week we have a very diverse digest. In Ast
 projects: []
 
 # Date published
-date: "2020-08-08T00:00:00Z"
+date: "2021-08-08T00:00:00Z"
 
 # Date updated
 # lastmod: "2020-02-06T00:00:00Z"

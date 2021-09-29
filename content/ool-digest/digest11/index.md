@@ -9,7 +9,7 @@ summary: Time for a new OoL digest! This week we have stuff on astrobiology, bio
 projects: []
 
 # Date published
-date: "2020-06-06T00:00:00Z"
+date: "2021-06-06T00:00:00Z"
 
 # Date updated
 # lastmod: "2020-02-06T00:00:00Z"

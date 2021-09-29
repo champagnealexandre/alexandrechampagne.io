@@ -9,7 +9,7 @@ summary: "This week’s digest contains many publications so it is divided into 
 projects: []
 
 # Date published
-date: "2020-09-28T00:00:00Z"
+date: "2021-09-28T00:00:00Z"
 
 # Date updated
 # lastmod: "2020-02-06T00:00:00Z"

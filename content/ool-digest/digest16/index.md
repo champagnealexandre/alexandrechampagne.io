@@ -9,7 +9,7 @@ summary: "Good morning from Montreal! In this week’s digest: in the field of a
 projects: []
 
 # Date published
-date: "2020-07-11T00:00:00Z"
+date: "2021-07-11T00:00:00Z"
 
 # Date updated
 # lastmod: "2020-02-06T00:00:00Z"

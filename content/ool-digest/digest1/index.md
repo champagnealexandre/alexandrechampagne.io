@@ -9,7 +9,7 @@ summary: This is the OoL digest, first edition! Today, we have two articles in a
 projects: []
 
 # Date published
-date: "2020-02-06T00:00:00Z"
+date: "2021-02-06T00:00:00Z"
 
 # Date updated
 lastmod: "2020-02-06T00:00:00Z"

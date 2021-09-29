@@ -9,7 +9,7 @@ summary: Greetings from Montreal! A lot of amazing new research out this week --
 projects: []
 
 # Date published
-date: "2020-06-13T00:00:00Z"
+date: "2021-06-13T00:00:00Z"
 
 # Date updated
 # lastmod: "2020-02-06T00:00:00Z"

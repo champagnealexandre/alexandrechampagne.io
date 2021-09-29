@@ -9,7 +9,7 @@ summary: "Here is part two of this week’s digest. In the field of biochemistry
 projects: []
 
 # Date published
-date: "2020-07-26T00:00:00Z"
+date: "2021-07-26T00:00:00Z"
 
 # Date updated
 # lastmod: "2020-02-06T00:00:00Z"
