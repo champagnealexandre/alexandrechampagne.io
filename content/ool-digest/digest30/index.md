@@ -3,7 +3,7 @@ title: OoL digest — October 25th edition
 subtitle: "Multiple papers published on the OoL again this week. Astrobiology: Cockell discusses the concept of (microbiological) habitability in a first article, and of Venusian clouds habitability in a second article, Goodwin compares biosignatures from dolomitic stromatolites to that of possible carbonate outcrops on Mars, and Rodriguez presents the science goals for the POSEIDON mission concept that would perform in situ investigations of Titan. Biochemistry: Criado-Reyes investigates the role of the borosilicate flasks themselves in Miller-Urey type experiments, Kahana discusses catalytic micelles as protocell precursors, and Schavemaker argues that enkaryotes diversification was contingent upon the origin of mitochondria."
 
 # Summary for listings and search engines
-summary: ""
+summary: "Multiple papers published on the OoL again this week. Astrobiology: Cockell discusses the concept of (microbiological) habitability in a first article, and of Venusian clouds habitability in a second article, Goodwin compares biosignatures from dolomitic stromatolites to that of possible carbonate outcrops on Mars, and Rodriguez presents the science goals for the POSEIDON mission concept that would perform in situ investigations of Titan. Biochemistry: Criado-Reyes investigates the role of the borosilicate flasks themselves in Miller-Urey type experiments, Kahana discusses catalytic micelles as protocell precursors, and Schavemaker argues that enkaryotes diversification was contingent upon the origin of mitochondria."
 
 # Link this post with a project
 projects: []
