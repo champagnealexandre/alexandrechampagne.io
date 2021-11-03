@@ -18,7 +18,7 @@ main:
     url: "ool-digest/"
     # parent: "research"
     weight: 40
-  - name: Contact
-    url: "mailto:alexandre.champagne-ruel@umontreal.ca"
+  - name: <li class="nav-item"><a class="nav-link" href="mailto:alexandre.champagne-ruel@umontreal.ca">Contact</a></li>
+    url: ""
     weight: 99
 
