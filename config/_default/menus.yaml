@@ -7,43 +7,18 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: CV
+    url: uploads/cv.pdf
+    weight: 20
   - name: Research
     url: "research/"
-    weight: 20
+    weight: 30
     identifier: "research"
-#  - name: Research interests
-#    url: "research-interests/"
-    # parent: "research"
-#    weight: 30
   - name: Origin of life digest
     url: "ool-digest/"
     # parent: "research"
     weight: 40
-  - name: Publications
-    url: "publications/"
-    # parent: "research"
-    weight: 30
-#  - name: Blog
-#    url: "blog/"
-#    weight: 100
-#  - name: Posts
-#    url: '#posts'
-#    weight: 20
-#  - name: Projects
-#    url: '#projects'
-#    weight: 30
-#  - name: Talks
-#    url: '#talks'
-#    weight: 40
-#  - name: Publications
-#    url: '#featured'
-#    weight: 50
-#  - name: Example
-#    url: "example/"
-#    weight: 60
+  - name: Contact
+    url: "mailto:alexandre.champagne-ruel@umontreal.ca"
+    weight: 99
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 90
