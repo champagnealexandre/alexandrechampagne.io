@@ -17,53 +17,53 @@ organizations:
 bio: My research interests include statistical physics, complex systems and major evolutionary transitions.
 
 # Interests to show in About widget
-interests:
-- Statistical physics of complex systems
-- Major evolutionary transitions
-- Origin of life
+# interests:
+# - Statistical physics of complex systems
+# - Major evolutionary transitions
+# - Origin of life
 
-# Education to show in About widget
-education:
-  courses:
-  - course: PhD in Astrophysics
-    institution: Université de Montréal
-    year: 2024 (expected)
-  - course: MSc in Astrophysics
-    institution: Université de Montréal
-    year: 2020
-  - course: BSc in Physics
-    institution: Université de Montréal
-    year: 2018
-  - course: BSc in Philosophy
-    institution: Université de Montréal
-    year: 2012
+# # Education to show in About widget
+# education:
+#   courses:
+#   - course: PhD in Astrophysics
+#     institution: Université de Montréal
+#     year: 2024 (expected)
+#   - course: MSc in Astrophysics
+#     institution: Université de Montréal
+#     year: 2020
+#   - course: BSc in Physics
+#     institution: Université de Montréal
+#     year: 2018
+#   - course: BSc in Philosophy
+#     institution: Université de Montréal
+#     year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:alexandre.champagne-ruel@umontreal.ca'
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:alexandre.champagne-ruel@umontreal.ca'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AlexRChampagne
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=4BNA8IwAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/champagnealexandre/
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/champagnealexandre/
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/champagnealexandre/
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/champagnealexandre/
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Alexandre-Champagne-Ruel
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0002-2699-2699
+# - icon: orcid
+#   icon_pack: fab
+#   link: https://orcid.org/0000-0002-2699-2699
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -79,9 +79,11 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD candidate in astrophysics at the University of Montréal. My research interests include statistical physics of complex systems, major evolutionary transitions and the origin of life. I am a member of the [Centre for Research in Astrophysics of Quebec](http://craq-astro.ca/?lang=en) and the [Origin of Life Early-career Network](https://oolen.org/). I also maintain a [digest](ool-digest/) of new published papers on the origin of life every other week or so.
+I am a PhD candidate in astrophysics at the University of Montréal, currently mostly working on the origin of life problem from a statistical physics perspective.
 
-In my free time, I run, bike, and do yoga. I LOVE to travel as well!
+My research interests also include complex systems, major evolutionary transitions and philosophy. I am a member of the [Centre for Research in Astrophysics of Quebec](http://craq-astro.ca/?lang=en), the [Origin of Life Early-career Network](https://oolen.org/).
 
-{{< icon name="download" pack="fas" >}} You can also {{< staticref "uploads/cv.pdf" "newtab" >}}download my CV{{< /staticref >}}.
+I also maintain a [digest](ool-digest/) of newly published papers on the origin of life every week or so.
+
+In my free time, I run, bike, do yoga, and [love to travel](https://www.instagram.com/champagne.alexandre21/).
 
