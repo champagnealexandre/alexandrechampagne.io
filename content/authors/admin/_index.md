@@ -79,7 +79,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD candidate in astrophysics at the University of Montréal, currently mostly working on the origin of life problem from a statistical physics perspective.
+I am a PhD candidate in astrophysics at the University of Montréal, currently working on the origin of life problem from a statistical physics perspective.
 
 My research interests also include complex systems, major evolutionary transitions and philosophy. I am a member of the [Centre for Research in Astrophysics of Quebec](http://craq-astro.ca/?lang=en), the [Origin of Life Early-career Network](https://oolen.org/).
 
