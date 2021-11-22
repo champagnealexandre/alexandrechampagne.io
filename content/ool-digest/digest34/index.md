@@ -3,7 +3,7 @@ title: OoL digest — November 22nd edition
 subtitle: "Four new astrobiology papers: effects of flares on M-earths habitability (Bogner), false positives for biosignatures on Mars (McMahon), effects of clouds on CH$_4$-CO$_2$ detection with JWST (Mikal-Evans) and a technosignature signal from Proxima Centauri (Smith). In biochemistry, Vincent discusses the prebiotic soup ingredients, in bioinformatics Okauchi examines cell-free replication and evolution and in planetary science Villafañe-Barajas analyzes the relevance of dynamic systems in hydrothermal vent systems."
 
 # Summary for listings and search engines
-summary: ""
+summary: "Four new astrobiology papers: effects of flares on M-earths habitability (Bogner), false positives for biosignatures on Mars (McMahon), effects of clouds on CH$_4$-CO$_2$ detection with JWST (Mikal-Evans) and a technosignature signal from Proxima Centauri (Smith). In biochemistry, Vincent discusses the prebiotic soup ingredients, in bioinformatics Okauchi examines cell-free replication and evolution and in planetary science Villafañe-Barajas analyzes the relevance of dynamic systems in hydrothermal vent systems."
 
 # Link this post with a project
 projects: []
