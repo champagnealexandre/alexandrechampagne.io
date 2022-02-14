@@ -1,9 +1,9 @@
 ---
 title: OoL digest — February 14th edition
-subtitle: "This week we have 3 preprints and 17 new papers on the origin of life. I don’s usually include exoplanet papers but did include one this week for a particularly interesting candidate (Faria paper). Enjoy!"
+subtitle: "This week we have 3 preprints and 17 new papers on the origin of life. I don’t usually include exoplanet papers but did include one this week for a particularly interesting candidate (Faria paper). Enjoy!"
 
 # Summary for listings and search engines
-summary: "This week we have 3 preprints and 17 new papers on the origin of life. I don’s usually include exoplanet papers but did include one this week for a particularly interesting candidate (Faria paper). Enjoy!"
+summary: "This week we have 3 preprints and 17 new papers on the origin of life. I don’t usually include exoplanet papers but did include one this week for a particularly interesting candidate (Faria paper). Enjoy!"
 
 # Link this post with a project
 projects: []
