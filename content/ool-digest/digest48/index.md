@@ -3,7 +3,7 @@ title: OoL digest — March 7th edition
 subtitle: "This week we have 6 preprints and 21 new papers on the origin of life. Enjoy!"
 
 # Summary for listings and search engines
-summary: "This week we have 6 preprints and 21 new papers on the origin of life. Enjoy!"
+summary: "This week we have 7 preprints and 18 new papers on the origin of life. Enjoy!"
 
 # Link this post with a project
 projects: []
@@ -68,17 +68,9 @@ categories:
 
 <br>
 
-**Bioinformatics**
-
-[Evolution of reproductive strategies in incipient multicellularity](https://doi.org/10.1098/rsif.2021.0716) -- Gao et al. -- *Journal of The Royal Society Interface*
-
-<br>
-
 **Biology**
 
 [Capturing the facets of evolvability in a mechanistic framework](https://doi.org/10.1016/j.tree.2022.01.004) -- Riederer et al. -- *Trends in Ecology & Evolution*
-
-[Selective drivers of simple multicellularity](https://doi.org/10.1016/j.mib.2022.102141) -- Tong et al. -- *Current Opinion in Microbiology*
 
 <br>
 
