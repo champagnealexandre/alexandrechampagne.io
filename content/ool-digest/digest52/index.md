@@ -3,7 +3,7 @@ title: OoL digest — April 4th edition
 subtitle: "This week we have 1 preprint and 2 new papers on the origin of life. Enjoy!"
 
 # Summary for listings and search engines
-summary: "This week we have 4 preprints and 8 new papers on the origin of life. Enjoy!"
+summary: "This week we have 1 preprint and 2 new papers on the origin of life. Enjoy!"
 
 # Link this post with a project
 projects: []
