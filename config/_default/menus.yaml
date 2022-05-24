@@ -11,10 +11,14 @@ main:
     url: "research/"
     weight: 30
     identifier: "research"
+  - name: Talks
+    url: "talks/"
+    weight: 40
+    identifier: "talks"
   - name: Origin of life digest
     url: "ool-digest/"
     # parent: "research"
-    weight: 40
+    weight: 50
   - name: CV
     url: uploads/cv.pdf
     weight: 90
