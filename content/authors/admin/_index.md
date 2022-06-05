@@ -85,5 +85,5 @@ My research interests also include complex systems, major evolutionary transitio
 
 I also maintain a [digest](ool-digest/) of newly published papers on the origin of life every week or so.
 
-In my free time, I run, bike, do yoga, and [love to travel](https://www.instagram.com/champagne.alexandre21/).
+In my free time, I run, bike, do yoga, and love to travel!
 
