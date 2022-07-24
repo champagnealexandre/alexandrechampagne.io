@@ -49,9 +49,6 @@ categories:
 
 <br>
 
-# **Astrophysics**
-# <br>
-
 **Biochemistry**
 
 [Aromatic patterns: Tryptophan aromaticity as a catalyst for the emergence of life and rise of consciousness](https://doi.org/10.1016/j.plrev.2022.07.002) -- Alachkar -- *Physics of Life Reviews*
