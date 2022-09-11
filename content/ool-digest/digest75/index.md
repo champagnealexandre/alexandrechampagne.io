@@ -1,5 +1,5 @@
 ---
-title: OoL digest — September 15 edition
+title: OoL digest — September 12 edition
 subtitle: "This week we have 2 preprints and 13 new papers on the origin of life. Enjoy!"
 
 # Summary for listings and search engines
@@ -14,7 +14,7 @@ projects: []
 publishDate: "2022-05-28T00:00:00Z"
 
 # Date stamp on the page
-date: "2022-09-15T00:00:00Z"
+date: "2022-09-12T00:00:00Z"
 
 # Date updated
 # lastmod: "2020-02-06T00:00:00Z"
