@@ -77,6 +77,8 @@ categories:
 
 <br>
 
+**Physics**
+
 [Chemical thermodynamics for growing systems](https://doi.org/10.1103/PhysRevResearch.4.033191) -- Sughiyama et al. -- *Physical Review Research*
 
 [Hessian geometric structure of chemical thermodynamic systems with stoichiometric constraints](https://doi.org/10.1103/PhysRevResearch.4.033065) -- Sughiyama et al. -- *Physical Review Research*
