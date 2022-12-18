@@ -1,6 +1,6 @@
 ---
 title: Origin of life digest
-subtitle: Every week, I review the papers that were published in the scientific literature and post the ones related to research on the origin of life here. <br><br> You can also subscribe to this digest via RSS through [this link](index.xml) or [receive it in your email directly](https://www.getrevue.co/profile/alexrchampagne). 
+subtitle: Every week, I review the papers that were published in the scientific literature and post the ones related to research on the origin of life here. <br><br> You can also subscribe to this digest via RSS through [this link](index.xml) or [receive it in your email directly](https://buttondown.email/ooldigest). 
 summary: Weekly digest of Origin of Life papers.
 cms_exclude: true
 
