@@ -59,6 +59,8 @@ categories:
 
 [Glycine Peptide Chain Formation in the Gas Phase via Unimolecular Reactions](https://doi.org/10.1021/acs.jpca.2c08248) -- Comte et al. -- *The Journal of Physical Chemistry A*
 
+[RNA-catalyzed RNA Ligation within Prebiotically Plausible Model Protocells](https://doi.org/10.1101/2023.02.09.527907) -- DasGupta et al. -- *preprint*
+
 [RNA conformation and metal ion coordination in the nonenzymatic primer extension reaction center](https://doi.org/10.1101/2023.02.03.527041) -- Mittal et al. -- *preprint*
 
 [Emergence of chaos in a compartmentalized catalytic reaction nanosystem](https://doi.org/10.1038/s41467-023-36434-y) -- Raab et al. -- *Nature Communications*
