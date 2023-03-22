@@ -53,7 +53,7 @@ categories:
 
 [A Biotic Habitable Zone: Impacts of Adaptation in Biotic Temperature Regulation](https://doi.org/10.48550/arXiv.2303.10052) <br> Nicholson et al. -- *preprint*
 
-[Insights into the formation and evolution of extraterrestrial amino acids from the asteroid Ryugu](https://doi.org/10.1038/s41467-023-37107-6) <br> Potiszil et al. -- *Nature Communications*
+[Insights into the formation and evolution of extraterrestrial amino acids from the asteroid Ryugu](https://www.nature.com/articles/s41467-023-37107-6) <br> Potiszil et al. -- *Nature Communications*
 
 <br>
 
