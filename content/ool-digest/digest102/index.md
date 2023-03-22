@@ -1,9 +1,9 @@
 ---
 title: OoL digest — March 20 edition
-subtitle: "This week we have 7 new preprints and 15 papers on the origin of life. Enjoy!"
+subtitle: "This week we have 7 new preprints and 13 papers on the origin of life. Enjoy!"
 
 # Summary for listings and search engines
-summary: "This week we have 7 new preprints and 15 papers on the origin of life. Enjoy!"
+summary: "This week we have 7 new preprints and 13 papers on the origin of life. Enjoy!"
 
 # Link this post with a project
 projects: []
@@ -49,13 +49,11 @@ categories:
 
 [Terminator Habitability: The Case for Limited Water Availability on M-dwarf Planets](https://doi.org/10.3847/1538-4357/aca970) <br> Lobo et al. -- *The Astrophysical Journal*
 
-[Molecular fingerprints resolve affinities of Rhynie chert organic fossils](https://doi.org/10.1038/s41467-023-37047-1) <br> Loron et al. -- *Nature Communications*
+[Molecular fingerprints resolve affinities of Rhynie chert organic fossils](https://www.nature.com/articles/s41467-023-37047-1) <br> Loron et al. -- *Nature Communications*
 
 [A Biotic Habitable Zone: Impacts of Adaptation in Biotic Temperature Regulation](https://doi.org/10.48550/arXiv.2303.10052) <br> Nicholson et al. -- *preprint*
 
 [Insights into the formation and evolution of extraterrestrial amino acids from the asteroid Ryugu](https://doi.org/10.1038/s41467-023-37107-6) <br> Potiszil et al. -- *Nature Communications*
-
-[Presence of liquid water during the evolution of exomoons orbiting ejected free-floating planets](https://doi.org/10.1017/S1473550423000046) <br> Roccetti et al. -- *International Journal of Astrobiology*
 
 <br>
 
@@ -90,8 +88,6 @@ categories:
 **Geophysics**
 
 [Surface changes observed on a Venusian volcano during the Magellan mission](https://doi.org/10.1126/science.abm7735) <br> Herrick et al. -- *Science*
-
-[Molecular fingerprints resolve affinities of Rhynie chert organic fossils](https://doi.org/10.1038/s41467-023-37047-1) <br> Loron et al. -- *Nature Communications*
 
 <br>
 
