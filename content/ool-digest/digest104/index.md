@@ -71,10 +71,6 @@ categories:
 
 <br>
 
-# **Geochemistry**
-
-# <br>
-
 **Microbiology**
 
 [The methanogen core and pangenome: conservation and variability across biology’s growth temperature extremes](https://doi.org/10.1093/dnares/dsac048) <br> Prondzinsky et al. -- *DNA Research*
