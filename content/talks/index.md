@@ -14,7 +14,17 @@ header:
   image: ""
 ---
 
-<h2>AbSciCon (2022)</h2>
+<h2>
+
+Théorie de l’information et origine de la vie — 90e Congrès de l’ACFAS (2023)</h2>
+
+<br>
+
+{{< youtube Q5W49cNz6sU >}}
+
+<br><br><br>
+
+<h2>A Mutation Threshold for Cooperative Takeover — AbSciCon (2022)</h2>
 
 <br>
 
