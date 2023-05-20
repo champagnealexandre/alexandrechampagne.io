@@ -61,7 +61,7 @@ categories:
 
 [Theoretical Study on the Potential Existing Forms and Microwave Rotational Spectrum of Short-Chain Fatty Acids in Interstellar Space](https://doi.org/10.48550/arXiv.2305.04762) <br> Mu et al. -- *preprint*
 
-[JWST Will Hunt for Dead Solar Systems&mdash;and Much More&mdash;in Its Second Year of Science](https://www.scientificamerican.com/article/jwst-will-hunt-for-dead-solar-systems-and-much-more-in-its-second-year-of-science/) <br> O’Callaghan -- *preprint*
+[JWST Will Hunt for Dead Solar Systems&mdash;and Much More&mdash;in Its Second Year of Science](https://www.scientificamerican.com/article/jwst-will-hunt-for-dead-solar-systems-and-much-more-in-its-second-year-of-science/) <br> O’Callaghan -- *Scientific American*
 
 <br>
 
