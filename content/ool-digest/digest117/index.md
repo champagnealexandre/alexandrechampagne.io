@@ -1,7 +1,7 @@
 ---
 title: OoL digest — July 3 edition
-subtitle: "This week we have 5 new papers and 1 book on the origin of life. Enjoy!"
-summary:  "This week we have 5 new papers and 1 book on the origin of life. Enjoy!"
+subtitle: "This week we have 5 new papers on the origin of life. Enjoy!"
+summary:  "This week we have 5 new papers on the origin of life. Enjoy!"
 date: "2023-07-03T00:00:00Z"
 
 # ##########################################################
