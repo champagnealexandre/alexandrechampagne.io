@@ -40,7 +40,7 @@ categories:
 
 [Circumpolar ocean stability on Mars 3 Gy ago](https://doi.org/10.1073/pnas.2112930118) <br> F. et al. -- *preprint*
 
-[Can Lucky Planets Get a Second Chance at Life?](https://www.scientificamerican.com/article/can-lucky-planets-get-a-second-chance-at-life/) <br> Feehly -- *preprint*
+[Can Lucky Planets Get a Second Chance at Life?](https://www.scientificamerican.com/article/can-lucky-planets-get-a-second-chance-at-life/) <br> Feehly -- *Scientific American*
 
 [Plausibility of Capture into High-Obliquity States for Exoplanets in the M Dwarf Habitable Zone](https://doi.org/10.48550/arXiv.2310.02332) <br> Guerrero et al. -- *preprint*
 
