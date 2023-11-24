@@ -51,7 +51,7 @@ social:
   link: https://twitter.com/AlexRChampagne
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=4BNA8IwAAAAJ
+  link: https://scholar.google.ca/citations?user=ImjAWBgAAAAJ&hl=en
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/champagnealexandre/
