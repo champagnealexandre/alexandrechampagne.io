@@ -38,4 +38,12 @@ Théorie de l’information et origine de la vie — 90e Congrès de l’ACFAS (
 
 {{< youtube id="jKACKvvwyug?start=4343" autoplay="false">}}
 
+<br><br><br>
+
+<h2>Mutation Favors the Emergence of Cooperation — Life and Space Poland (2021)</h2>
+
+<br>
+
+{{< youtube OfIq9SfGdbo >}}
+
 <br><br><br><br><br><br>
