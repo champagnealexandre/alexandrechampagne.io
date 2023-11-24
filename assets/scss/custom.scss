@@ -102,3 +102,23 @@ img[src$='#floatright']
 #images{
   text-align:center;
 }
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.logos {
+  float: inline-block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding: 0px;
+}
+
+.logo {
+  display: inline;
+  text-align:center;
+  padding: 20px;
+}
+
+.home-section {
+padding: 60px 0px 0px 0px !important;
+}

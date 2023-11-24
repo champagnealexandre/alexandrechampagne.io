@@ -58,9 +58,9 @@ social:
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/in/champagnealexandre/
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Alexandre-Champagne-Ruel
+# - icon: researchgate
+#   icon_pack: fab
+#   link: https://www.researchgate.net/profile/Alexandre-Champagne-Ruel
 # - icon: orcid
 #   icon_pack: fab
 #   link: https://orcid.org/0000-0002-2699-2699
