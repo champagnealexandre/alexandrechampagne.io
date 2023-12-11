@@ -2,7 +2,7 @@
 title: OoL digest — December 4 edition
 subtitle: "This week we have 15 new papers on the origin of life. Enjoy!"
 summary:  "This week we have 15 new papers on the origin of life. Enjoy!"
-date: "2023-11-27T00:00:00Z"
+date: "2023-12-04T00:00:00Z"
 
 # ##########################################################
 
