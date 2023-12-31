@@ -6,7 +6,7 @@ title: Alexandre Champagne‑Ruel
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate - Astrophysics
+role: PhD Candidate - Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -79,11 +79,11 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD candidate in astrophysics at the University of Montréal, currently working on the origin of life problem from a statistical physics perspective.
+I am a PhD candidate in physics at the Université de Montréal. My work involves investigating the emergence of complexity and the origin of life.
 
-My research interests also include complex systems, major evolutionary transitions and philosophy. I am a member of the [Centre for Research in Astrophysics of Quebec](http://craq-astro.ca/?lang=en), the [Origin of Life Early-career Network](https://oolen.org/).
+I am also interested in major evolutionary transitions, information theory and philosophy. I am a member of the [Centre for Research in Astrophysics of Quebec](http://craq-astro.ca/?lang=en), the [Origin of Life Early-career Network](https://oolen.org/).
 
-I also maintain a [digest](ool-digest/) of newly published papers on the origin of life every week or so.
+I also maintain a weekly [digest](ool-digest/) of newly published papers related to the origin of life.
 
 In my free time, I run, bike, do yoga, and love to travel!
 
