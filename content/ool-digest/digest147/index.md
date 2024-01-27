@@ -1,7 +1,7 @@
 ---
 title: OoL digest — January 29 edition
-subtitle: "This week we have 22 new papers on the origin of life. Enjoy!"
-summary:  "This week we have 22 new papers on the origin of life. Enjoy!"
+subtitle: "This week we have 21 new papers on the origin of life. Enjoy!"
+summary:  "This week we have 21 new papers on the origin of life. Enjoy!"
 date: "2024-01-29T00:00:00Z"
 
 # ##########################################################
@@ -69,12 +69,6 @@ categories:
 **Chemistry**
 
 [Effects of Activation Barriers on Quenching to Stabilize Prebiotic Chemical Systems](https://doi.org/10.3390/life14010116) <br> Sheng et al. -- *Life (Basel, Switzerland)*
-
-<br>
-
-**Computational biology**
-
-[Predicting species emergence in simulated complex pre-biotic networks](https://doi.org/10.1371/journal.pone.0192871) <br> Markovitch et al. -- *PLOS ONE*
 
 <br>
 
