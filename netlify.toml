@@ -20,3 +20,9 @@
 #   package = "netlify-plugin-hugo-cache-resources"
 #   [plugins.inputs]
 #     debug = true
+
+[[redirects]]
+  from = "https://alexandrechampagne.io"
+  to = "https://alexandrechampagne.myportfolio.com"
+  status = 301
+  force = true
