@@ -24,5 +24,5 @@
 [[redirects]]
   from = "https://alexandrechampagne.io"
   to = "https://alexandrechampagne.myportfolio.com"
-  status = 301
+  status = 200
   force = true
