@@ -23,6 +23,6 @@
 
 [[redirects]]
   from = "https://alexandrechampagne.io/*"
-  to = "https://alexandrechampagne.myportfolio.com/*"
+  to = "https://alexandrechampagne.myportfolio.com/:splat"
   status = 200
   force = true
